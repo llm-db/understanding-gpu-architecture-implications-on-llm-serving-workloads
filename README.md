@@ -1,6 +1,7 @@
-# FineInfer-Kernels
+This repository contains the code for Zijian Zhang's master's thesis titled <em>Understanding GPU Architecture Implications on LLM Serving Workloads</em>.
 
 ```sh
+git clone https://github.com/llm-db/understanding-gpu-architecture-implications-on-llm-serving-workloads.git
 git submodule init
 git submodule update
 ```
