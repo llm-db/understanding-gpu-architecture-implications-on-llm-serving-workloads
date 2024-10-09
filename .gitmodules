@@ -1,0 +1,12 @@
+[submodule "kernels/deps/cutlass"]
+	path = kernels/deps/cutlass
+	url = https://github.com/NVIDIA/cutlass.git
+[submodule "kernels/deps/ck"]
+	path = kernels/deps/ck
+	url = https://github.com/ROCm/composable_kernel.git
+[submodule "kernels/deps/rocWMMA"]
+	path = kernels/deps/rocWMMA
+	url = https://github.com/ROCm/rocWMMA.git
+[submodule "kernels/deps/ThunderKittens"]
+	path = kernels/deps/ThunderKittens
+	url = https://github.com/HazyResearch/ThunderKittens.git
