@@ -1,0 +1,11 @@
+.vscode
+# all __pycache__ directories
+__pycache__
+# all .cache directories
+.cache
+# all file named compile_commands.json
+compile_commands.json
+
+.eggs
+
+build

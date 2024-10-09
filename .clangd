@@ -1,0 +1,16 @@
+CompileFlags:
+  Add: [
+    --no-cuda-version-check,
+    -Wno-unknown-warning-option,
+    -std=c++20
+  ]
+  Remove: [
+    --generate-dependencies-with-compile,
+    --dependency-output,
+    --expt-relaxed-constexpr,
+    --compiler-options,
+    --expt-extended-lambda,
+    -gencode,
+    --use_fast_math,
+    --threads
+  ]
