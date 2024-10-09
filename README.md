@@ -1,5 +1,5 @@
 This repository contains the code for Zijian Zhang's master's thesis titled <em>Understanding GPU Architecture Implications on LLM Serving Workloads</em>.
-
+# Getting Started
 ```sh
 git clone https://github.com/llm-db/understanding-gpu-architecture-implications-on-llm-serving-workloads.git
 git submodule init
